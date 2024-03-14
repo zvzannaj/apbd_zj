@@ -26,7 +26,7 @@ static int GetMax(int[] tab)
         return max;
     }
 
-    return -1;
+    return -1; 
 }
 
 
